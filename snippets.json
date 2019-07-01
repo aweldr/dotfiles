@@ -1,0 +1,12 @@
+{
+  "Link Styles": {
+    "prefix": "styles",
+    "body": ["<link rel='stylesheet' href='styles.css'>"],
+    "description": "Link styles.css"
+  },
+  "Link Milligram": {
+    "prefix": "milligram",
+    "body": ["<link rel='stylesheet' href='milligram.css'>"],
+    "description": "Link milligram.css"
+  }
+}
